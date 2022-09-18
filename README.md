@@ -1,9 +1,9 @@
-# C++
-#### Patterns, Data Structures &amp; Algorithms Implemented In C++ 
+# Algorithms
+#### Data Structures &amp; Algorithms Implemented In C++ & Python
 <br />
 
 ## Contents
-- ### Basic C++ Programs
+- ### Basic Code
 
 <br>
 
