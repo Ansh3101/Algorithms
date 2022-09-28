@@ -1,5 +1,5 @@
 # Algorithms
-#### Data Structures &amp; Algorithms Implemented In C++ & Python
+#### Data Structures &amp; Algorithms Implemented
 <br />
 
 ## Contents
