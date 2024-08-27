@@ -1,5 +1,5 @@
 # Algorithms
-#### Data Structures &amp; Algorithms Implemented
+#### Data Structures &amp; Algorithms Implemented In C++
 <br />
 
 ## Contents
